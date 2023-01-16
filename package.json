@@ -1,6 +1,6 @@
 {
   "name": "growljs_by_gusti",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Growl is notification bar with custom time out by default(3000 ms)",
   "main": "index.js",
   "scripts": {
