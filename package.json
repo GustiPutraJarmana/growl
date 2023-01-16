@@ -1,0 +1,25 @@
+{
+  "name": "growljs_by_gusti",
+  "version": "1.0.0",
+  "description": "Growl is notification bar with custom time out by default(3000 ms)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustiPutraJarmana/growl.git"
+  },
+  "keywords": [
+    "growljs"
+  ],
+  "author": "Gusti Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustiPutraJarmana/growl/issues"
+  },
+  "homepage": "https://github.com/GustiPutraJarmana/growl#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
